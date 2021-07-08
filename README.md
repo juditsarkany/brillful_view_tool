@@ -2,7 +2,6 @@
 
 > Various view specific methods for applications I use.
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
@@ -22,7 +21,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = BrillfulViewTool::Renderer.copyright 'Brillful', 'All rights reserved'
+```
 
 ## Development
 
